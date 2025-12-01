@@ -1,0 +1,1 @@
+Implementação dos algoritmos Djikstra e BMSSSP pelos alunos de graduação Vinícius Martins Gonzaga, Thiago Amorim Lameira e Gabriel Eduardo Lage Moreira, para o trabalho da disciplina ECOI2207, Projeto e Análise de Algoritmos da Universidade Federal de Itajubá.
