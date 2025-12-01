@@ -1,0 +1,1 @@
+Os testes dos foram realizados variando os parâmetros na função Main para o algoritmo BMSSSP e inserindo pelo terminal  para o algoritmo de Djikstra.
